@@ -19,7 +19,7 @@ Ensure you have the following:
 
 1. **Clone the repository or download the script:**
    ```sh
-   git clone https://github.com/yourrepo/CertScanPro.git
+   git clone https://github.com/Dit-Developers/CertScanPro.git
    cd CertScanPro
    ```
 2. **Run PowerShell with execution permissions:**
